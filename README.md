@@ -1,8 +1,8 @@
 # Projeto
 
- PROJETO FOI FEITO PELO SITE : **PINABRE BILDER.COM**https://www.pineapplebuilder.com/
+ PROJETO FOI FEITO PELO SITE : https://www.pineapplebuilder.com/
 
- SEGUE ABAIXO ALGUMAS IMAGENS DO SITE ABAIXO: 
+ SEGUE ABAIXO ALGUMAS IMAGENS DO SITE: 
 
 
 ![Captura de Tela (2040)](https://github.com/user-attachments/assets/75f55700-c0cc-411a-a26b-ecc3a7d7ee34)
