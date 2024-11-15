@@ -2,6 +2,11 @@
 
  PROJETO FOI FEITO PELO SITE : https://www.pineapplebuilder.com/
 
+ ## LINK DO PROJETO:
+
+ https://leocortes.pineapple.page/
+ 
+
  ## SEGUE ABAIXO ALGUMAS IMAGENS DO SITE
 
 
